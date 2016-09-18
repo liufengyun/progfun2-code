@@ -7,7 +7,7 @@ Pull requests are welcome!
 ## Contributors
 
 - Week 1: [@leanton](https://github.com/leanton)
-- Week 2: TODO
+- Week 2: [@leanton](https://github.com/leanton)
 - Week 3: TODO
 - Week 4: TODO
 - Week 5: TODO
