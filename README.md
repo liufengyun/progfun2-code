@@ -6,7 +6,7 @@ Pull requests are welcome!
 
 ## Contributors
 
-- Week 1: [@leanton](https://github.com/leanton)
+- Week 1: [@leanton](https://github.com/leanton) [@PawelPamula](https://github.com/PawelPamula)
 - Week 2: [@leanton](https://github.com/leanton)
 - Week 3: TODO
 - Week 4: TODO
