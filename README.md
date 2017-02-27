@@ -9,7 +9,7 @@ Pull requests are welcome!
 - Week 1: [@leanton](https://github.com/leanton) [@PawelPamula](https://github.com/PawelPamula)
 - Week 2: [@leanton](https://github.com/leanton)
 - Week 3: [@leanton](https://github.com/leanton)
-- Week 4: TODO
+- Week 4: [@alamit](https://github.com/alamit)
 - Week 5: TODO
 - Week 6: TODO
 
